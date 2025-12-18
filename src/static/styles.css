@@ -106,6 +106,21 @@ section h3 {
   border: 1px solid #e6eefc;
 }
 
+.participant-remove {
+  margin-left: auto;
+  background: transparent;
+  border: none;
+  color: #c62828;
+  cursor: pointer;
+  font-size: 16px;
+  padding: 6px;
+  border-radius: 4px;
+}
+
+.participant-remove:hover {
+  background: rgba(198, 40, 40, 0.08);
+}
+
 .participant-avatar {
   width: 32px;
   height: 32px;
